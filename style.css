@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+*{
+    font-family: "Karla", sans-serif;
+    margin: 0em;
+    padding: 0em;
+}
+
+.table{
+
+    margin-top: 4em;
+    display: grid;
+    grid-template-columns: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    margin-top: 1em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    padding: 3em;
+    margin: 0.2em;
+    cursor: pointer;
+}
+
+.alltable{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+section > p{
+    font-size: 2em;
+    margin-top: 2em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
